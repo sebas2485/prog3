@@ -1,0 +1,14 @@
+{
+    "db-connections":{
+        "mongodb":{
+            "host":"cluster0.ukzsdyn.mongodb.net",
+            "user":"sebastian",
+            "password":"2EJ8hJgrYewJmWfQ",
+            "dbname":"taller1"
+        }
+    },
+    "secretKeys":{
+        "cryptojs":"gqIyxr76aj73PcW8"
+    },
+    "server-port":3000
+}
